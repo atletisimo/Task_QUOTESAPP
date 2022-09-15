@@ -1,0 +1,25 @@
+.link {
+  display: flex;
+  grid-gap: 10px;
+  justify-content: center;
+}
+.link1 {
+  background-color: blue;
+  color: white;
+  padding: 15px;
+  border-radius: 8px;
+  font-size: 20px;
+}
+.link2 {
+  background-color: blue;
+  color: white;
+  padding: 15px;
+  border-radius: 8px;
+  font-size: 20px;
+}
+#buttons {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 2rem;
+}
